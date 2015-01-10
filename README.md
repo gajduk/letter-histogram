@@ -11,13 +11,12 @@ This little program uses the new AsynchronousFileChannel from NIO 2 to read supe
 
 How to use?
 
----
 
 Click on choose file to open a file browse dialog, then select a text file.
 Wait a minute for the file to load properly
 The bar colors correspond to letter frequency:
-    - red most frequent 
-	- blue least frequent\n"+
+ - red most frequent 
+ - blue least frequent
 
     
 Some sample images from the demo:
